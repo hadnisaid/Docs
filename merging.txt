@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 some text for this task
 content to append
+=======
+totally different content to merge later
+>>>>>>> new_branch_to_merge_later
